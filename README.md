@@ -3,7 +3,7 @@
 Find delicious meals from around the world using **TheMealDB API**.  
 Search for any recipe by name or keyword and instantly view detailed instructions, ingredients, and a YouTube video tutorial.
 
-🔗 **Live Preview:** [View Here](https://laibatariq.github.io/recipe-finder/)  
+🔗 **Live Preview:** [View Here](https://laibatariq110.github.io/recipe-finder/)  
 
 ---
 
